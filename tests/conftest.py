@@ -19,7 +19,7 @@ FIXTURES_FILE_PATH = os.path.join(
 
 MEW_KEYFILE = {
     'json': {
-        'Crypto': {
+        'Cryptodome': {
             'cipher': 'aes-128-ctr',
             'cipherparams': {
                 'iv': '7e7b02d2b4ef45d6c98cb885e75f48d5',

@@ -58,7 +58,6 @@ setup(
     include_package_data=True,
     install_requires=install_requires,
     extras_require=deps,
-    setup_requires=['setuptools-markdown'],
     py_modules=['eth_keyfile'],
     license="MIT",
     zip_safe=False,
